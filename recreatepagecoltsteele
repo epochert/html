@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Recreate 2</title>
+</head>
+
+<body>
+    <h1>Recreate Page</h1>
+    <p>Hello, I'm an image of a dog. Woof</p>
+
+    <img src=https://imgix.ranker.com/user_node_img/50023/1000444059/original/mama-and-baby-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces>
+        <h2> My favorite places </h2>
+    <ul>
+        <li>Newfoundland</li>
+        <li>Berlin</li>
+        <li>Toronto</li>
+        <p>Make sure to check< out my <a href="https://www.instagram.com/explore/tags/newfoundlanddog/?hl=es">Visit My
+                Instagram
+                !</a> </p>
+
+    </ul>
+</body>
+
+</html>
